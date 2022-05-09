@@ -126,7 +126,7 @@ body {
 .header {
   grid-column: full-start / full-end;
   grid-row: 2/3;
-  background-image: linear-gradient(to right bottom, rgba(67, 67, 67, 0.8), rgba(0, 0, 0, 0.8)), url(../img/personal-image.jpg);
+  background-image: linear-gradient(to right bottom, rgba(67, 67, 67, 0.8), rgba(0, 0, 0, 0.8)), url(../img/personal-image.webp);
   background-position: top;
   background-size: cover;
   display: grid;
